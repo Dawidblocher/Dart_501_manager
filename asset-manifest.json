@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Dart_501_manager/static/css/main.d45ce343.chunk.css",
+    "main.js": "/Dart_501_manager/static/js/main.590d1ca7.chunk.js",
+    "main.js.map": "/Dart_501_manager/static/js/main.590d1ca7.chunk.js.map",
+    "runtime-main.js": "/Dart_501_manager/static/js/runtime-main.c50cd5fd.js",
+    "runtime-main.js.map": "/Dart_501_manager/static/js/runtime-main.c50cd5fd.js.map",
+    "static/js/2.1031510b.chunk.js": "/Dart_501_manager/static/js/2.1031510b.chunk.js",
+    "static/js/2.1031510b.chunk.js.map": "/Dart_501_manager/static/js/2.1031510b.chunk.js.map",
+    "index.html": "/Dart_501_manager/index.html",
+    "precache-manifest.db595755e0b57f1f322bbf1d9d98600f.js": "/Dart_501_manager/precache-manifest.db595755e0b57f1f322bbf1d9d98600f.js",
+    "service-worker.js": "/Dart_501_manager/service-worker.js",
+    "static/css/main.d45ce343.chunk.css.map": "/Dart_501_manager/static/css/main.d45ce343.chunk.css.map",
+    "static/js/2.1031510b.chunk.js.LICENSE": "/Dart_501_manager/static/js/2.1031510b.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c50cd5fd.js",
+    "static/js/2.1031510b.chunk.js",
+    "static/css/main.d45ce343.chunk.css",
+    "static/js/main.590d1ca7.chunk.js"
+  ]
+}
