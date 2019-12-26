@@ -1,0 +1,77 @@
+.App-header .target:hover {
+    fill: #5757de;
+}
+
+.target.checked {
+    fill: blue;
+}
+
+.st0 {
+    fill: none;
+    stroke: #FFFFFF;
+    stroke-width: 0.25;
+}
+
+.st1 {
+    fill: #FAFAAC;
+}
+
+.st2 {
+    fill: #FFE680;
+}
+
+.st3 {
+    fill: #FFE680;
+    stroke: #FFFFFF;
+    stroke-width: 0.25;
+}
+
+.st4 {
+    fill: #D40000;
+}
+
+.st5 {
+    fill: none;
+    stroke: #78FF21;
+    stroke-width: 0.25;
+}
+
+.st6 {
+    fill: #FF212C;
+}
+
+.st7 {
+    fill: #D40000;
+    stroke: #FFFFFF;
+    stroke-width: 0.25;
+}
+
+.st8 {
+    fill: #33F105;
+}
+
+.st9 {
+    fill: #00AA00;
+    stroke: #FFFFFF;
+    stroke-width: 0.25;
+}
+
+.st10 {
+    fill: #FFFFFF;
+}
+
+.st11 {
+    font-family: 'NirmalaUI-Bold';
+}
+
+.st12 {
+    font-size: 36px;
+}
+
+.st13 {
+    fill: none;
+}
+
+.st14 {
+    fill: #FCFCFC;
+}

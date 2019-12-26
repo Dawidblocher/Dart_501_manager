@@ -1,0 +1,132 @@
+.App-header {
+  width: 800px;
+}
+
+p {
+  margin: 0;
+  font-size: 17px;
+}
+
+input {
+  background: none;
+  border: 2px solid gray;
+  padding: 5px;
+  text-align: center;
+  font-size: 20px;
+  margin: 2px;
+}
+
+
+
+.App {
+  display: flex;
+  margin: 10px;
+}
+
+.game-info {
+  flex-grow: 1;
+}
+
+.now-playing {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  background: red;
+  margin: 0;
+  padding: 20px;
+  width: 100%;
+  font-size: 40px;
+  font-weight: bold;
+  color: white;
+  text-align: center;
+}
+
+.game-status {
+  position: fixed;
+  top: 0;
+  right: 10px;
+  background: green;
+  margin: 0;
+  padding: 20px;
+
+  font-size: 20px;
+  font-weight: bold;
+  color: white;
+  text-align: center;
+}
+
+.game-info {
+  position: relative;
+  margin-left: 10px;
+}
+
+.player-wrap {
+  display: flex;
+  margin: 10px;
+}
+
+.player-wrap header,
+.player-wrap div {
+  font-size: 25px;
+  padding: 10px;
+  border-top: 1px solid black;
+
+}
+
+.table-score {
+  margin-top: 100px;
+}
+
+.player-wrap header {
+  width: 200px;
+}
+
+.player-wrap div {
+  border-left: 0;
+  width: 80%;
+}
+
+.nextPlayer {
+  padding: 10px;
+  background: green;
+  font-size: 25px;
+  color: white;
+  border: none;
+  position: absolute;
+  bottom: 220px;
+  left: 50%;
+  transform: translateX(-50%);
+  cursor: pointer;
+}
+
+.winner-table {
+  margin-top: 50px;
+  text-align: center;
+}
+
+.nextPlayer:hover {
+  background: #1f4c1f;
+}
+
+.check-target-box {
+  position: fixed;
+  display: flex;
+  left: 250px;
+}
+
+.check-target-box p {
+  padding: 10px;
+  background: green;
+  color: white;
+  font-size: 25px;
+  margin: 0px 5px;
+}
+
+.resetShoots {
+  position: fixed;
+  left: 0;
+  top: 0;
+  padding: 10px;
+  border: 1px solid black;
+  background: none;
+}
